@@ -1,1 +1,1 @@
-# Software-testing-course_Vadim-Ksendzova
+# Software-testing-course_Vadim-Ksendzov
